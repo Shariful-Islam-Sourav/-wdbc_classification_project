@@ -1,0 +1,48 @@
+WDBC Classification Project Report
+
+1. Which classifiers did you test?
+
+- SVM
+- Decision Tree
+- KNN
+
+--------------------------------------------------
+
+2. Which classifier gave the best accuracy?
+
+KNN
+
+Accuracy: 95.61%
+
+Precision: 93.42%
+
+Recall: 100%
+
+--------------------------------------------------
+
+3. What does the confusion matrix show?
+
+The confusion matrix shows the number of correct and incorrect predictions made by the classifier.
+
+True Negatives: 38
+False Positives: 5
+False Negatives: 0
+True Positives: 71
+
+This means the model correctly classified most samples and made only a small number of mistakes.
+
+--------------------------------------------------
+
+4. Was the model good at predicting both classes?
+
+Yes.
+
+The model achieved 95.61% accuracy and successfully identified all positive cases (Recall = 100%). This indicates strong performance on both classes.
+
+--------------------------------------------------
+
+5. Why is documentation important in an open-source ML project?
+
+Documentation helps users understand the project, install dependencies, run the code, interpret results, and contribute improvements.
+
+Good documentation makes a project easier to maintain, share, and improve over time.
