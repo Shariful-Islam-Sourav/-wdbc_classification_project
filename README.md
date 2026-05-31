@@ -29,6 +29,11 @@ Classes:
 
 ---
 
+## Python Version
+
+Python 3.10+
+
+
 ## Libraries Used
 
 - NumPy
